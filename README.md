@@ -1,7 +1,8 @@
 
 # Olá mundo! meu nome é Silanio👋
    
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silanioo/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silaniio/)
+[![Blog](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silaniio/)
 
 ![silaniio GitHub stats](https://github-readme-stats.vercel.app/api?username=silaniio&show_icons=true&theme=dracula)
 
