@@ -3,7 +3,7 @@
    
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silanioo/)
 
-![silanioo GitHub stats](https://github-readme-stats.vercel.app/api?username=silanioo&show_icons=true&theme=dracula)
+![silaniio GitHub stats](https://github-readme-stats.vercel.app/api?username=silaniio&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia
 
