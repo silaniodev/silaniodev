@@ -27,6 +27,7 @@ Criador(a) de conteúdo digital
     <img  align="center" alt="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
     <img  align="center" alt="powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 </div>
+
 ## Tecnologias que estou estudando
 <div style="display: inline_block"></br>
     <img  align="center" alt="google-cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
