@@ -3,10 +3,12 @@
 Criador(a) de conteúdo digital
 👨🏽‍💻 Analista de TI
 ⚙️ DevOps em formação
-portifolio-silanio.vercel.👋  
+portifolio-silanio.vercel.👋 
+
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silaniio/)
 [![Blog](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silaniio/)
 ![silaniio GitHub stats](https://github-readme-stats.vercel.app/api?username=silaniio&show_icons=true&theme=dracula)
+
 ## Tecnologias que domino
 <div style="display: inline_block"></br>
     <img  align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
