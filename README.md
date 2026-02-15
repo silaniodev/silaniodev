@@ -4,10 +4,10 @@ Criador(a) de conteúdo digital
 👨🏽‍💻 Analista de TI
 ⚙️ DevOps em formação
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silaniio/)
-[![Blog](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silaniio/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silanioo/)
+[![Blog](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silanioo/)
 
-![silaniio GitHub stats](https://github-readme-stats.vercel.app/api?username=silaniio&show_icons=true&theme=dracula)
+![silanioo GitHub stats](https://github-readme-stats.vercel.app/api?username=silaniio&show_icons=true&theme=dracula)
 
 ## Tecnologias que domino
 <div style="display: inline_block"></br>
