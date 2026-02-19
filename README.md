@@ -1,5 +1,5 @@
 
-# Olá mundo! meu nome é Silanio | DevOps
+# Olá mundo! meu nome é Silanio | Full Stack & DevOps
 Criador(a) de conteúdo digital
 👨🏽‍💻 Analista de TI
 ⚙️ DevOps em formação
