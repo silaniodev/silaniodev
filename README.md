@@ -1,8 +1,6 @@
 
 # Olá mundo! meu nome é Silanio | Full Stack & DevOps
-Criador(a) de conteúdo digital
-👨🏽‍💻 Analista de TI
-⚙️ DevOps em formação
+    Criador(a) de conteúdo digital
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silanioo/)
 [![Blog](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silanio.dev/)
