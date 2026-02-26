@@ -1,10 +1,7 @@
 
 # Olá mundo! meu nome é Silanio Moura | Full Stack & DevOps
-    Criador(a) de conteúdo digital
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silanioo/)
-[![Blog](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silanio.dev/)
-
 
 ## Tecnologias que domino
 <div style="display: inline_block"></br>
